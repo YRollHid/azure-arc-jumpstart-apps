@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Welcome to Azure Arc GitOps YrhPwC!
+          value: Welcome to Azure Arc GitOps YrhPwC on K3s!
